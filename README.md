@@ -42,6 +42,8 @@
 
 [Dr.Eman scholar Page](https://scholar.google.com/citations?user=PmLFQ6MAAAAJ&hl=en)
 
+[Dr.Eman related papers](https://drive.google.com/drive/folders/1F1Bz0UdlsArpcrb6x91M_eb0I9j2iLct)
+
 [ML for physical verification paper](http://edpsieee.ieeesiliconvalley.org/EDP2017/Papers/4_Paul_Franzon.pdf)
 
 [Survay](https://docs.google.com/document/d/1ZuJDcnggOVx0YA1xEHlm256NxnuOgnm1tpeHjAtpjq8/edit)
