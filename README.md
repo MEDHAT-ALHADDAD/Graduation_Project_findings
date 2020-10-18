@@ -43,6 +43,13 @@
 [Dr.Eman scholar Page](https://scholar.google.com/citations?user=PmLFQ6MAAAAJ&hl=en)
 
 [Dr.Eman related papers](https://drive.google.com/drive/folders/1F1Bz0UdlsArpcrb6x91M_eb0I9j2iLct)
+. [Applications of ML in post silicon verification](https://drive.google.com/file/d/1qFfCdktGUj_HGj2ZqpTfsJPpWcbOpZ_-/view?usp=sharing)
+. [Automatic Generation ofFunctional Coverage Models](https://drive.google.com/file/d/192vrvIxWjOoy59pAS1d4r-PCrO0KkhBb/view?usp=sharing)
+. [Automatic GenerationofHardwareDesignPropertiesfrom Simulation Traces](https://drive.google.com/file/d/15Agu3lCFqclDEepNkQ8qXGpyUerDUD2w/view?usp=sharing)
+. [Construction of Coverage Data for PostSilicon Validation Using BigDataTechniques](https://drive.google.com/drive/folders/1F1Bz0UdlsArpcrb6x91M_eb0I9j2iLct)
+. [Estimation of Formal Verification Cost Using Regression Machine Learning](https://drive.google.com/file/d/1o3Vim7XfluYDo-WkaYPc1BGhVIkzlNzj/view?usp=sharing)
+. [Intelligent testbench Automation](https://drive.google.com/file/d/1lfGWzPGzK8c7BCPm84J4gBYoiS1vTxVH/view?usp=sharing)
+. [Cross-Product Functional Coverage Analysis Using Machine Learning Clustering Techniques](https://drive.google.com/file/d/1f5fBCA7IE5GQrLO99LQHZ49BWJ0fYXCm/view?usp=sharing)
 
 [ML for physical verification paper](http://edpsieee.ieeesiliconvalley.org/EDP2017/Papers/4_Paul_Franzon.pdf)
 
