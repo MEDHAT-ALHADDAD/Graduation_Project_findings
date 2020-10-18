@@ -1,9 +1,5 @@
 # Graduation_Project_findings
 
-# Graduation Project Findings
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Revision materials (if needed)
 
 ### Digital IC Design
