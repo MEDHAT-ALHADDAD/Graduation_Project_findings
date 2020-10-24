@@ -74,6 +74,24 @@
 
 [Path_based_analysis using Mapreduce](https://drive.google.com/file/d/1022nXV1U_a2msediHrj81aa8c56oc9hd/view?usp=sharing)
 
+[Machine_learning_in_VLSI](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[FPGA_Placement_ML](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[Enhancing_the_Performance of FPGA Congestion_Management via Supervised Learning](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[Adaptive FPGA Placement Optimization via Reinforcement Learning](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[Opportunities of ML in Hardware verification](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[Failure Root Cause Analysis Automation on Functional Simulation Regressions](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[Support vector machine coverage driven verification for communication cores](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[Functional Test Selection Based on Unsupervised Support Vector Analysis](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
+[NLP_IN_ML](https://drive.google.com/drive/folders/1D2nSKxPZuOi8aUy1Z8dGeICPI4zARGL2)
+
 ```bash
 # Main ML applications in EDA
 . Making Routing and Placing more efficient
