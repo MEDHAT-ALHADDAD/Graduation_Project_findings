@@ -37,7 +37,7 @@
 
 ## Introduction of using Machine Learining in EDA
 
-[MathWorks-Machine Learning for Electronic Design Automation](https://www.mathworks.com/videos/machine-learning-for-electronic-design-automation-1544592067829.html)
+[MathWorks-Machine Learning for Electronic Design Automation, 2018](https://www.mathworks.com/videos/machine-learning-for-electronic-design-automation-1544592067829.html)
 
 
 [Dr.Eman scholar Page](https://scholar.google.com/citations?user=PmLFQ6MAAAAJ&hl=en)
@@ -58,52 +58,37 @@
 . [Cross-Product Functional Coverage Analysis Using Machine Learning Clustering Techniques](https://drive.google.com/file/d/1f5fBCA7IE5GQrLO99LQHZ49BWJ0fYXCm/view?usp=sharing)
 
 
-[ML for physical verification paper](http://edpsieee.ieeesiliconvalley.org/EDP2017/Papers/4_Paul_Franzon.pdf)
+[ML for physical verification paper, 2017](http://edpsieee.ieeesiliconvalley.org/EDP2017/Papers/4_Paul_Franzon.pdf)
 
 [Survay](https://docs.google.com/document/d/1ZuJDcnggOVx0YA1xEHlm256NxnuOgnm1tpeHjAtpjq8/edit)
 
-[A Hybrid Framework for Functional Verification using RL & DL paper](https://drive.google.com/file/d/1AOvkR2N8CjxcWdcDQthx-AZDuGJZy0fu/view?usp=sharing)
+[A Hybrid Framework for Functional Verification using RL & DL paper, 2019](https://drive.google.com/file/d/1AOvkR2N8CjxcWdcDQthx-AZDuGJZy0fu/view?usp=sharing)
 
-[Using Machine Learning Techniques for Logic Design Verification paper](https://drive.google.com/file/d/1AqPGoPGfgKL-DpyYEnGLSxBv6LspWNLT/view?usp=sharing)
+[Using Machine Learning Techniques for Logic Design Verification paper, 2019](https://drive.google.com/file/d/1AqPGoPGfgKL-DpyYEnGLSxBv6LspWNLT/view?usp=sharing)
 
 [Foster2003_Chapter_FunctionalCoverage book](https://drive.google.com/file/d/1AqPGoPGfgKL-DpyYEnGLSxBv6LspWNLT/view?usp=sharing)
 
-[Machine Learning and Systems for Building the Next Generation of EDA tools](https://drive.google.com/file/d/1ZXo9J_MJQf6Y7cOwpRkGFb6nznueTHM9/view?usp=sharing)
+[Machine Learning and Systems for Building the Next Generation of EDA tools, 2018](https://drive.google.com/file/d/1ZXo9J_MJQf6Y7cOwpRkGFb6nznueTHM9/view?usp=sharing)
 
-[Optimizing Design Verification using Machine Learning: Doing better than Random](https://drive.google.com/file/d/1V1bhUN7XoGmf7V9uFicPqr_USch3g8j6/view?usp=sharing)
+[Optimizing Design Verification using Machine Learning: Doing better than Random, 2019](https://drive.google.com/file/d/1V1bhUN7XoGmf7V9uFicPqr_USch3g8j6/view?usp=sharing)
 
 [Path_based_analysis using Mapreduce](https://drive.google.com/file/d/1022nXV1U_a2msediHrj81aa8c56oc9hd/view?usp=sharing)
 
-[Machine_learning_in_VLSI](https://drive.google.com/file/d/17UZ5_qEcdClMXqOO8kLlnL2qjA40aCrC/view)
+[Machine_learning_in_VLSI, 2020](https://drive.google.com/file/d/17UZ5_qEcdClMXqOO8kLlnL2qjA40aCrC/view)
 
-[FPGA_Placement_ML](https://drive.google.com/file/d/1nB3BkEEM-mSMHQ6acXazm48zKpekimfi/view)
+[FPGA_Placement_ML, 2018](https://drive.google.com/file/d/1nB3BkEEM-mSMHQ6acXazm48zKpekimfi/view)
 
-[Enhancing_the_Performance of FPGA Congestion_Management via Supervised Learning](https://drive.google.com/file/d/1HBoJYi_I4QeSkvlk5aSlhaWq3__MgjqU/view)
+[Enhancing_the_Performance of FPGA Congestion_Management via Supervised Learning, 2019](https://drive.google.com/file/d/1HBoJYi_I4QeSkvlk5aSlhaWq3__MgjqU/view)
 
-[Adaptive FPGA Placement Optimization via Reinforcement Learning](https://drive.google.com/file/d/10waORRDHjPNBSJvR6BJjBYbKCau1LNda/view)
+[Adaptive FPGA Placement Optimization via Reinforcement Learning, 2019](https://drive.google.com/file/d/10waORRDHjPNBSJvR6BJjBYbKCau1LNda/view)
 
-[Opportunities of ML in Hardware verification](https://drive.google.com/file/d/1KXeyivQH0d8BrwN7dCVHBQZC2EJYt8FS/view)
+[Opportunities of ML in Hardware verification, 2019](https://drive.google.com/file/d/1KXeyivQH0d8BrwN7dCVHBQZC2EJYt8FS/view)
 
-[Failure Root Cause Analysis Automation on Functional Simulation Regressions](https://drive.google.com/file/d/1YyiDGkwOKLPWCWw1jD8xk0qp5tsjFG1m/view)
+[Failure Root Cause Analysis Automation on Functional Simulation Regressions, 2019](https://drive.google.com/file/d/1YyiDGkwOKLPWCWw1jD8xk0qp5tsjFG1m/view)
 
-[Support vector machine coverage driven verification for communication cores](https://drive.google.com/file/d/19HKPXceaiUJnlPdPA1ucrrKpix5afaSe/view)
+[Support vector machine coverage driven verification for communication cores, old](https://drive.google.com/file/d/19HKPXceaiUJnlPdPA1ucrrKpix5afaSe/view)
 
-[Functional Test Selection Based on Unsupervised Support Vector Analysis](https://drive.google.com/file/d/1iGpO2az4rUu3yHHfETUrc7TCwXcnPWCQ/view)
+[Functional Test Selection Based on Unsupervised Support Vector Analysis, old](https://drive.google.com/file/d/1iGpO2az4rUu3yHHfETUrc7TCwXcnPWCQ/view)
 
-[NLP_IN_ML](https://drive.google.com/file/d/1NtNAFIrCX6lCjSuS3Ge7ldBPUPOCKxMh/view)
+[NLP_IN_EDA, 2020 (nothing interesting)](https://drive.google.com/file/d/1NtNAFIrCX6lCjSuS3Ge7ldBPUPOCKxMh/view)
 
-```bash
-# Main ML applications in EDA
-. Making Routing and Placing more efficient
-. Improve design output (Optimize Area/power..)
-. Making Debugging easier by identifying the cause of the problem in 
-  the source code from code and logs.
-. Development of assertions and constraints and learning state machines from IO 
-  traces.
-. ChatBot that helps designers and verification engineers.
-. Accelerated Path-Based Timing Analysis with MapReduce
-. Generate better test cases to gain more coverage instead of randomization  
-  (pre-silicon).
-. Post-silicon coverage using big data.
-
-```
