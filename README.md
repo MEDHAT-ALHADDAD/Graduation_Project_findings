@@ -92,3 +92,5 @@
 
 [NLP_IN_EDA, 2020 (nothing interesting)](https://drive.google.com/file/d/1NtNAFIrCX6lCjSuS3Ge7ldBPUPOCKxMh/view)
 
+[CAEML Research papers](https://publish.illinois.edu/advancedelectronics/completed-projects/)
+
